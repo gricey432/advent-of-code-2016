@@ -20,4 +20,3 @@ for line in lines:
 
 # Result
 print valid
-
